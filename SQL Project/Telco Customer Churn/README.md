@@ -103,6 +103,15 @@ Berdasarkan temuan yang diperoleh dari analisis churn pelanggan, berikut adalah 
 
 5. **Lakukan segmentasi pelanggan secara berkala berdasarkan risiko churn dan nilai pelanggan**, lalu terapkan pendekatan personalisasi dalam retensi, misalnya dengan pengingat layanan yang belum diaktifkan atau penawaran khusus berdasarkan riwayat penggunaan.
 
-
 ---
 
+## 📊 Visualisasi (Looker Studio)
+
+<div align="center">
+  <img src="Visualisasi/Screenshot 2025-07-03 100525.png" alt="Dashboard Preview" width="700"/>
+</div>
+
+> **Dashboard**  
+> 📎 [Link Dashboard (LookerStudio)](https://lookerstudio.google.com/reporting/4a11dbd7-c098-4806-8a4e-513e8620e6fd)
+
+---
