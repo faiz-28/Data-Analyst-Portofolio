@@ -1,4 +1,4 @@
-### Muhammad Faiz Ardiansyah
+### Portofolio Data Analyst
 
 Saya adalah mahasiswa S1 Matematika yang memiliki minat kuat dalam bidang analisis data. Saya antusias bekerja dengan data untuk mengungkap pola tersembunyi, menyelesaikan permasalahan dunia nyata, dan menyajikan insight melalui visualisasi yang bermakna dan mudah dipahami.
 
