@@ -112,9 +112,15 @@ Temuan ini memperkuat hasil radar chart dan menunjukkan bahwa segmentasi berbasi
 | **Cluster 2** | Dominan di `Grocery`, `Milk`, `Detergents_Paper` | Retail |strategi yang tepat adalah menyediakan paket kebutuhan rumah tangga, sistem isi ulang berkala, dan program loyalti untuk mendorong pembelian berulang.         |
 | **Cluster 3** | Konsumsi rendah/moderat, fokus Frozen | Horeca           | Strategi yang dapat dilakukan adalah dengan membuat bundling produk beku dan lebih ditargetkan pada restoran skala menengah atau katering kecil       |
 | **Cluster 4** | Tinggi di semua fitur (multikategori)  | Horeca           | Pendekatan jangka panjang seperti kontrak pasokan reguler dan sistem distribusi terjadwal akan lebih efektif dalam menjaga loyalitas serta memastikan kestabilan permintaan.
-    |
 
 ---
+### Visualisasi
+<div align="center">
+  <img src="Visualisasi/Heatmap Distribusi Pelanggan per Cluster Terhadap Channel.png" alt="Dashboard Preview" width="700"/>
+</div>
+<div align="center">
+  <img src="Visualisasi/Radar Chart Karakteristik Produk Tiap Cluster.png" alt="Dashboard Preview" width="700"/>
+</div>
 
 ### 📌 Kesimpulan
 
