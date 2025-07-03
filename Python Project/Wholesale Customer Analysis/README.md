@@ -22,8 +22,8 @@ Fitur utama:
 - `Delicatessen`
 - `Channel` dan `Region` sebagai label kategorikal
 
-  > **Wholesale Customer Dataset**
-  > 📎 [Link Dataset (UCI Machine Learning)](https://archive.ics.uci.edu/dataset/292/wholesale+customers)
+ 
+>📎 [Link Dataset (UCI Machine Learning)](https://archive.ics.uci.edu/dataset/292/wholesale+customers)
 
 ## 🛠️ Tools & Library
 
