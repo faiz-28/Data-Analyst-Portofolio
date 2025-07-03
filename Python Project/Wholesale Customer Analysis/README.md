@@ -25,10 +25,9 @@ Fitur utama:
  
 >📎 [Link Dataset (UCI Machine Learning)](https://archive.ics.uci.edu/dataset/292/wholesale+customers)
 
+---
 
 ## 📌Tahapan Analisis
-
-## 🧭 Tahapan Analisis
 
 Berikut adalah tahapan yang dilakukan dalam proyek segmentasi pelanggan menggunakan metode K-Means Clustering:
 
@@ -114,21 +113,13 @@ Temuan ini memperkuat hasil radar chart dan menunjukkan bahwa segmentasi berbasi
 | **Cluster 4** | Tinggi di semua fitur (multikategori)  | Horeca           | Pendekatan jangka panjang seperti kontrak pasokan reguler dan sistem distribusi terjadwal akan lebih efektif dalam menjaga loyalitas serta memastikan kestabilan permintaan.
 
 ---
-### Visualisasi
+### 📊 Visualisasi
 <div align="center">
   <img src="Visualisasi/Heatmap Distribusi Pelanggan per Cluster Terhadap Channel.png" alt="Dashboard Preview" width="700"/>
 </div>
 <div align="center">
   <img src="Visualisasi/Radar Chart Karakteristik Produk Tiap Cluster.png" alt="Dashboard Preview" width="700"/>
 </div>
-
-### 📌 Kesimpulan
-
-Penggabungan analisis radar chart dan heatmap menunjukkan bahwa terdapat pola yang konsisten antara perilaku pembelian pelanggan dan saluran distribusinya. Pelanggan dari sektor Horeca cenderung memiliki preferensi terhadap produk segar dan makanan beku, sementara pelanggan retail lebih fokus pada kebutuhan rumah tangga seperti grocery dan milk. Pemahaman ini memberikan dasar yang kuat untuk merancang strategi pemasaran dan distribusi yang lebih terarah dan efisien.
-
-Implementasi dari insight ini dapat membantu perusahaan dalam menentukan prioritas segmentasi pasar, mengembangkan penawaran produk yang relevan, serta mengoptimalkan distribusi berdasarkan profil pelanggan yang telah terbentuk. Dengan pendekatan yang lebih personal dan berbasis data, perusahaan dapat meningkatkan kepuasan pelanggan sekaligus mendorong pertumbuhan penjualan yang berkelanjutan.
-
-
 
 ---
 
