@@ -47,7 +47,7 @@ Pemilihan jumlah cluster optimal dilakukan melalui dua pendekatan: **Elbow Metho
 Setelah jumlah cluster ditentukan, model **K-Means** diterapkan untuk melakukan segmentasi pelanggan. Label hasil klasterisasi kemudian ditambahkan ke dataset awal untuk dianalisis lebih lanjut.
 
 ### 6. 🧠 Analisis Karakteristik Tiap Cluster  
-Rata-rata pembelian pada tiap fitur dihitung untuk setiap cluster guna memahami profil konsumsinya. Perbedaan karakteristik antar cluster divisualisasikan dalam bentuk **Radar Chart**, yang memberikan gambaran menyeluruh mengenai preferensi produk di tiap segmen pelanggan.
+Rata-rata pembelian pada tiap fitur dihitung untuk setiap cluster untuk memahami profil konsumsinya. Perbedaan karakteristik antar cluster divisualisasikan dalam bentuk **Radar Chart** yang memberikan gambaran menyeluruh mengenai preferensi produk di tiap segmen pelanggan.
 
 ### 7. 📉 Distribusi Cluster terhadap Channel  
 Distribusi pelanggan dari tiap cluster ditinjau berdasarkan channel (Horeca vs Retail). Hasil analisis divisualisasikan melalui **Heatmap** dan dihitung dalam bentuk persentase untuk menampilkan proporsi relatif antar segmen terhadap saluran distribusinya.
